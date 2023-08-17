@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/parametkongjaroen/Desktop/contract-hack-bank/contracts/HackBank.sol": {
+      "lastModificationDate": 1691592294084,
+      "contentHash": "b63a4eafb1e7f9dd1808c9c0b77c9904",
+      "sourceName": "contracts/HackBank.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "HackBank"
+      ]
+    }
+  }
+}
